@@ -1,0 +1,30 @@
+# Set black background default line colors to white.
+
+lines.color: white
+patch.edgecolor: white
+
+text.color: white
+font.family: monospace
+font.size: 14.0
+#font.sans-serif: Helvetica
+
+axes.facecolor: (0.133, 0.133, 0.133)
+axes.edgecolor: (0.133, 0.133, 0.133)
+axes.labelcolor: white
+
+axes.grid: False
+
+xtick.color: white
+ytick.color: white
+
+#grid.color: .7
+#grid.linestyle: -
+#grid.alpha: .5
+
+legend.facecolor: (0.133, 0.133, 0.133)
+
+figure.facecolor: (0.133, 0.133, 0.133)
+figure.edgecolor: (0.133, 0.133, 0.133)
+
+savefig.facecolor: (0.133, 0.133, 0.133)
+savefig.edgecolor: (0.133, 0.133, 0.133)
